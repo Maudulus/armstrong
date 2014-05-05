@@ -1,0 +1,3 @@
+An Armstrong number is an n-digit number that is equal to the sum of the nth powers of its digits. A few examples of Armstrong numbers: 153, 371, 407, 54748. 
+
+This method is designed to tell the user whether or not a number is an Armstrong number (returning either "true" for a number that is an Armstrong number or "false" for a number that is not an Armstrong number). 
